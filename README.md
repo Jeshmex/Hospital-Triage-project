@@ -1,4 +1,2 @@
-"# Hospital-Triage-user_interface" 
-"# Hospital-Triage-project" 
-"# Hospital-Triage-project" 
-"# Hospital-Triage-project" 
+- The code is made to be a health system framework with a graphical user interface (GUI). It allows users to enter health records, including the user's name, health issue, data, and the state they live in. Users can view a sorted list of health records based on severity levels.
+- The code was implemented using a array list that provides methods for adding, removing, and accessing data. It helped faciliate the dynamic storage and management of health records. 
